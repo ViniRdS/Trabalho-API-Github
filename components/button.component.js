@@ -11,7 +11,7 @@ export default function ButtonC  ({ onPress, title }) {
 const styles = StyleSheet.create({
     button: {
         height: 45,
-        width: 250,
+        width: 300,
         backgroundColor: '#007BFF',
         padding: 10,
         borderRadius: 5,

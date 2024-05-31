@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
         padding: 20,
         borderRadius: 10,
         backgroundColor: '#f0f0f0',
-        width: '90%',
+        width: 300,
     },
     avatar: {
         width: 100,

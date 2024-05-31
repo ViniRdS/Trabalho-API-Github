@@ -13,7 +13,7 @@ export default function Input ({onChangeText, placeholder })  {
 const styles = StyleSheet.create({
     input: {
         height: 45,
-        width: 250,
+        width: 300,
         borderColor: '#ccc',
         borderWidth: 1,
         borderRadius: 5,
